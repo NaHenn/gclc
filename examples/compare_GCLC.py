@@ -7,6 +7,9 @@ import torch
 import time
 import pandas as pd
 
+import sys
+sys.path.insert(0, '../src/')
+
 from optim_GCLC import GCLC
 from networks import LayerNet
 
