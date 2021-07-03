@@ -1,7 +1,7 @@
 # GCLC
 
 This repository contains the source code for the GCLC method introduced in 
-"Training an Artificial Neural Network for Function Approximation with 
+"Training an Artificial Neural Network with 
 Gradient and Coarse-Level Correction Schemes" by N. Vater, A. Borzí
 
 ## Datasets 
